@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'The Wishing Post grows right out of the ground at the Top of the World.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Traces of silver at his temples hinted at that history, not too happy, with which she was in part acquainted.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Men jibed at his unquenchable optimism and mistook the man behind his twinkling eyes for a rainbow chaser, mirage-mad in a mild way.',
+  'example4':
+      'Twelve deep notes sounded from the clock-tower of the Cathedral, and the Bishop’s secretary dropped her hands from her typewriter and turned her face to the open window with a quick sigh.'
 };
 
 function status(statusText) {
